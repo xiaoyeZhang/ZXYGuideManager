@@ -1,0 +1,16 @@
+PODS:
+  - ZXYGuideManager (0.0.1)
+
+DEPENDENCIES:
+  - ZXYGuideManager
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ZXYGuideManager
+
+SPEC CHECKSUMS:
+  ZXYGuideManager: e98f2775e598cc788610aeab393bd8770e8dd958
+
+PODFILE CHECKSUM: 78caefc12abf031177d432d8134fe1e98d3226a0
+
+COCOAPODS: 1.7.0
